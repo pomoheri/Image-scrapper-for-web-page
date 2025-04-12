@@ -1,0 +1,16 @@
+{
+  "name": "image-scrapper-web-pages",
+  "version": "1.0.0",
+  "description": "Image scrapper from web pages",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pomoheri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.11.0"
+  }
+}
