@@ -7,8 +7,6 @@ downloads/
 # Environment variables
 .env
 
-.gitignore
-
 #screenshootjs
 screenshoot.js
 
